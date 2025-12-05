@@ -1,7 +1,7 @@
-1. LOMA - Voice-Activated Virtual Assistant
-     LOMA is a voice-activated virtual assistant capable of performing tasks such as web browsing, music playback, fetching news, and responding to user queries. It uses OpenAI’s GPT model along with speech recognition and text-to-speech technologies to interact with users through natural voice commands.
+LOMA - Voice-Activated Virtual Assistant
+LOMA is a voice-activated virtual assistant capable of performing tasks such as web browsing, music playback, fetching news, and responding to user queries. It uses OpenAI’s GPT model along with speech recognition and text-to-speech technologies to interact with users through natural voice commands.
 
-2. Features
+1. Features
     Voice Recognition - 
       Uses the speech_recognition library to capture and interpret voice commands.
       Activates when the wake word "Jarvis" is detected.
@@ -26,7 +26,7 @@
       Uses GPT-3.5-turbo (or newer) for answering questions and generating responses.
       Enhances the assistant’s ability to understand and answer complex queries.
 
-3. Workflow
+2. Workflow
 
     Initialization -
     Jarvis starts with the greeting: "Initializing LOMA..."
